@@ -1,0 +1,49 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Change hard drive on workstation 005",
+      "attention": false,
+      "date": "03-02-2019",
+      "tech": "Sam Smith"
+    },
+    {
+      "id": 2,
+      "message": "Workstation 007 not posting",
+      "attention": true,
+      "date": "03-02-2019",
+      "tech": "John Doe"
+    },
+    {
+      "id": 3,
+      "message": "Change memory on workstation 050",
+      "attention": false,
+      "date": "03-02-2019",
+      "tech": "Sara Wilson"
+    },
+    {
+      "message": "Workstation 007 is fixed",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2020-09-23T19:30:51.851Z",
+      "id": 4
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}
